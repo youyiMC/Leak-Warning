@@ -1,0 +1,13 @@
+{
+  "itemGroup.leakwarning": "Example Mod Tab",
+  "block.leakwarning.example_block": "Example Block",
+  "item.leakwarning.example_item": "Example Item",
+
+  "leakwarning.configuration.title": "Leak Warning Configs",
+  "leakwarning.configuration.section.leakwarning.common.toml": "Leak Warning Configs",
+  "leakwarning.configuration.section.leakwarning.common.toml.title": "Leak Warning Configs",
+  "leakwarning.configuration.items": "Item List",
+  "leakwarning.configuration.logDirtBlock": "Log Dirt Block",
+  "leakwarning.configuration.magicNumberIntroduction": "Magic Number Text",
+  "leakwarning.configuration.magicNumber": "Magic Number"
+}
