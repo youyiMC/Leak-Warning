@@ -1,0 +1,12 @@
+modLoader = "javafml"
+loaderVersion = "[4,)"
+license = "CC-BY-NC-SA 4.0"
+
+[[mods]]
+modId = "leakwarning"
+version = "1.0.0"
+displayName = "Leak Warning"
+logoFile = "leakwarning.png"
+credits = "由Deepseek V4 Flash协助开发"
+authors = "youyiMC"
+description = "监控内存使用并警告可能的内存泄漏"
